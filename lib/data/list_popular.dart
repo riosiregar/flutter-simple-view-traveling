@@ -10,11 +10,15 @@ class ListPopular {
 
 List<ListPopular> listPopulars = [
   ListPopular(
-    locationName: "Test",
+    locationName: "Tes",
     cityName: "AA",
   ),
   ListPopular(
-    locationName: "Test",
-    cityName: "AA"
+    locationName: "Tes",
+    cityName: "AA",
+  ),
+  ListPopular(
+    locationName: "Tes",
+    cityName: "AA",
   ),
 ];
